@@ -26,3 +26,6 @@ The calculations are based on the following official standard included in this r
 ## 🛠️ Experimental Setup
 - **Model:** GPT-4o / GPT-o3 /GPT-4.5
 - **Parameters:** Temperature 0.7, Top P 1.0
+
+## ⚖️ Evaluation Criteria
+ [View](./Evaluation_Criteria/prompt_a_baseline.md) 
