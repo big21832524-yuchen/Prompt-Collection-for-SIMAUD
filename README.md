@@ -21,7 +21,7 @@ We compared four prompting strategies to evaluate LLM performance:
 
 ## 📄 Reference Document
 The calculations are based on the following official standard included in this repo:
-* **SAP 10.2 (Version 14-03-2025)**: [SAP_10_2_14-03-2025.pdf](./docs/SAP_10_2_14-03-2025.pdf)
+* **SAP 10.2 (Version 14-03-2025)**: [SAP_10_2_14-03-2025.pdf](./docs/SAP_10.2_14-03-2025.pdf)
 
 ## 🛠️ Experimental Setup
 - **Model:** GPT-4o / GPT-o3 /GPT-4.5
