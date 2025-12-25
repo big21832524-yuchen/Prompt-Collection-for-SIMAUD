@@ -28,4 +28,4 @@ The calculations are based on the following official standard included in this r
 - **Parameters:** Temperature 0.7, Top P 1.0
 
 ## ⚖️ Evaluation Criteria
- [View](./Evaluation_Criteria/prompt_a_baseline.md) 
+ [View](./Evaluation_Criteria) 
