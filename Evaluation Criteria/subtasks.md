@@ -1,9 +1,11 @@
 # Detailed Evaluation Criteria
-Criteria,Description
-Instructional Alignment,"The response reflects an understanding of SAP methodology, procedural rules, and equations."
-Factual Precision,The response makes use of numerical inputs that remain within 10% variance.
-Source Attribution,The accuracy and appropriateness of referencing official SAP guidance or documentation.
-Logical Coherence,"The clarity, completeness, and internal consistency of calculations and justifications."
+
+| Index | Criteria | Description|
+| :--- | :--- | :--- |
+| 1 |Instructional Alignment | The response reflects an understanding of SAP methodology, procedural rules, and equations.|
+| 2 |Factual Precision | The response makes use of numerical inputs that remain within 10% variance.|
+| 3 |Source Attribution,The accuracy and appropriateness of referencing official SAP guidance or documentation.|
+| 4 |Logical Coherence,"The clarity, completeness, and internal consistency of calculations and justifications.|
 
 
 
