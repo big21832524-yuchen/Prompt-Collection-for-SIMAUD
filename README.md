@@ -14,10 +14,10 @@ We compared four prompting strategies to evaluate LLM performance:
 
 | ID | Strategy | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **A** | **Baseline** | Direct instruction to calculate TER without specific constraints. | [View](./prompt-A-ZeroShot.md) |
-| **B** | **Doc-Grounded** | Grounding the model using the SAP 10.2 PDF as the sole knowledge source. | [View](./prompt_b_doc_grounded.md) |
-| **C** | **Step-Augmented** | Guiding the model through 15 specific calculation steps. | [View](./prompt_c_step_augmented.md) |
-| **D** | **Chain-of-Thought** | Forcing sequential reasoning and outputting intermediate values. | [View](./prompt_d_cot.md) |
+| **A** | **Baseline** | Direct instruction to calculate TER without specific constraints. | [View](./prompts/prompt_a_baseline.md) |
+| **B** | **Doc-Grounded** | Grounding the model using the SAP 10.2 PDF as the sole knowledge source. | [View](./prompts/prompt_b_doc_grounded.md) |
+| **C** | **Step-Augmented** | Guiding the model through 15 specific calculation steps. | [View](./prompts/prompt_c_step_augmented.md) |
+| **D** | **Chain-of-Thought** | Forcing sequential reasoning and outputting intermediate values. | [View](./prompts/prompt_d_cot.md) |
 
 ## 📄 Reference Document
 The calculations are based on the following official standard included in this repo:
