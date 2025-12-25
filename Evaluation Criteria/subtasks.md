@@ -1,17 +1,17 @@
-# Detailed Evaluation Criteria
+# 4-Point Evaluation Criteria
 
 | Index | Criteria | Description|
 | :--- | :--- | :--- |
 | 1 |Instructional Alignment | The response reflects an understanding of SAP methodology, procedural rules, and equations.|
 | 2 |Factual Precision | The response makes use of numerical inputs that remain within 10% variance.|
-| 3 |Source Attribution,The accuracy and appropriateness of referencing official SAP guidance or documentation.|
-| 4 |Logical Coherence,"The clarity, completeness, and internal consistency of calculations and justifications.|
+| 3 |Source Attribution | The accuracy and appropriateness of referencing official SAP guidance or documentation.|
+| 4 |Logical Coherence | The clarity, completeness, and internal consistency of calculations and justifications.|
 
 
 
 
 
-This table outlines the specific verification targets used to evaluate the LLM's performance for each module and subtask, based on the SAP 10.2 standard.
+This table outlines 44 specific verification targets used to evaluate the LLM's performance for each module and subtask, based on the SAP 10.2 standard.
 
 | Module | Subtask | Verification Target | Index |
 | :--- | :--- | :--- | :--- |
