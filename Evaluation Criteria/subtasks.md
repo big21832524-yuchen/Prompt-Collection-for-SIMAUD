@@ -1,4 +1,13 @@
 # Detailed Evaluation Criteria
+Criteria,Description
+Instructional Alignment,"The response reflects an understanding of SAP methodology, procedural rules, and equations."
+Factual Precision,The response makes use of numerical inputs that remain within 10% variance.
+Source Attribution,The accuracy and appropriateness of referencing official SAP guidance or documentation.
+Logical Coherence,"The clarity, completeness, and internal consistency of calculations and justifications."
+
+
+
+
 
 This table outlines the specific verification targets used to evaluate the LLM's performance for each module and subtask, based on the SAP 10.2 standard.
 
